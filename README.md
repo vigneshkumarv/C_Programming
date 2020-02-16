@@ -1,2 +1,2 @@
-# Cprogramming
+# C Programming
 Practice C Programming
